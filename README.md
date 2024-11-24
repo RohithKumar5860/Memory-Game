@@ -20,6 +20,6 @@ This project is a perfect blend of creativity and coding, showcasing essential w
 <h4>
   The output while playing the game is :-
 </h4>
+<img src = "outputwhileplaying.png">
 <img src = "">
-<img src = "">
-<img src = "">
+
