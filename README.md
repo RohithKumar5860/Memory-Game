@@ -21,5 +21,8 @@ This project is a perfect blend of creativity and coding, showcasing essential w
   The output while playing the game is :-
 </h4>
 <img src = "outputwhileplaying.png">
-<img src = "">
+<h4>
+  The output after playing the game is:-
+</h4>
+<img src = "outputafterplaying.png">
 
