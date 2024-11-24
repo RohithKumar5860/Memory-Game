@@ -17,4 +17,9 @@ This project is a perfect blend of creativity and coding, showcasing essential w
   The output of the Game before playing is:-
 </h4>
 <img src = "outputbefore.png">
-
+<h4>
+  The output while playing the game is :-
+</h4>
+<img src = "">
+<img src = "">
+<img src = "">
