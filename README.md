@@ -13,4 +13,8 @@ Visually, the game is designed with a user-friendly interface, including vibrant
 
 This project is a perfect blend of creativity and coding, showcasing essential web development skills like DOM manipulation, event handling, and responsive design. It’s engaging, educational, and an excellent addition to a beginner or intermediate developer’s portfolio.
 </p>
+<h4>
+  The output of the Game before playing is:-
+</h4>
+<img src = "outputbefore.png">
 
